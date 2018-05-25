@@ -1,11 +1,14 @@
 from flask import Flask, jsonify, render_template, request
 import os
+import base64
+import jsonpickle
 import cv2
 import pytesseract
 from PIL import Image
 import urllib.response
 import numpy as np
 import uuid
+
 
 app = Flask(__name__, static_folder='images')
 
@@ -25,7 +28,8 @@ def upload():
         os.mkdir(target)
 
     if request.method == 'POST' or request.method == 'GET':
-        file = request.files["file"]
+
+        file = request.files["image"]
         filename = file.filename
         destination = "\\".join([target, filename])
         print("Destination: %s" %destination)
@@ -41,15 +45,9 @@ def upload():
         extracted_text = pytesseract.image_to_string(cao, lang='eng')
         print("The result is {}".format(extracted_text))
 
-    return render_template("complete.html", image_name=random_image_name, text = extracted_text)
-
-def url_to_image(url):
-    resp = urllib.response.openurl(url)
-    image = np.asarray(bytearray(resp.read()), dtype="uint8")
-    image = cv2.imdecode(image, cv2.IMREAD_COLOR)
-    return image
+    return render_template("complete.html")#, image_name=image)#), text=extracted_text)
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='192.168.2.14', debug=True)
 
