@@ -1,7 +1,6 @@
 from flask import Flask, jsonify, render_template, request
 import os
 import base64
-import jsonpickle
 import cv2
 import pytesseract
 from PIL import Image
