@@ -5,7 +5,9 @@
     <title>Title</title>
 </head>
 <body>
-Voila !!
+<div>
+    <h1>{{ filters_applied }}</h1>
+</div>
 
 <img src="{{ url_for('static', filename = image_name) }}">
 <p> {{ text }}</p>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1285bda-10c3-4af0-b776-67c74723d52e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/restapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/restapi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="restapi.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/restapi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="complete.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/complete.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/imageproccessing.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/complete.html" />
+        <option value="$PROJECT_DIR$/restapi.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="972" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value=":&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/restocrapi" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikos\PycharmProjects\restocrapi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="restapi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="restocrapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/restapi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.restapi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1285bda-10c3-4af0-b776-67c74723d52e" name="Default" comment="" />
+      <created>1527075786494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527075786494</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Latest Version">
+      <created>1527287744274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527287744274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Latest Version">
+      <created>1527287815469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527287815469</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19125395" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3630363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893288" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21791768" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34653464" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32893288" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893288" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Latest Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest Version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/20e4a636-7350-4db9-acf4-65d7636e11ce.png" />
+    <entry file="file://$PROJECT_DIR$/images/d73918a7-64b0-4202-8815-b8aafd9036e3.png" />
+    <entry file="file://$PROJECT_DIR$/images/72f87ea2-b96b-4cdd-9c20-4d9673a071bc.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/a4914928-0fce-4e3f-8637-8f9c301c2080.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/8e4901f5-b105-4872-b19f-cd1aab86bc59.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/791006da-8acd-4343-ac90-163dae0639c6.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/78633a0f-41e9-4fb5-a182-ce5e1fdc62fd.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/c2d0328d-9e1c-4a27-be3c-dbe2af5b2ed7.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/29ef7b18-8efc-4780-9685-0e4bcf6ffbbe.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/d2f30295-ceaf-4311-8379-6759648e31e0.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/532f2192-d8a2-43e6-9d45-7fbaa639c397.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/1a27c2e6-6df4-4a97-97b7-96dce31492a7.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/5a298687-cf39-4abf-963a-9c5e7aba0b67.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/623c5e5b-f622-4244-b356-5c1a0de4aa18.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/a3bdf15b-8a21-49fa-a5d2-2ff94447fd96.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/f74f27bf-16fd-4c3e-b703-46572f85c84a.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/56c7cefa-9587-4205-931d-c1a0e9c73364.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/f331b180-74b8-426d-9137-a2c0e15dd031.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/469cda79-fd16-411c-9de9-a033d08de4b5.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/5e3604df-e252-4aa3-91a3-343f885f2884.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/5d5307fc-2ab7-4673-8637-befede1ebe4f.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/eb1b5f6b-41e2-4037-bb5d-27f796321f1e.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/64d4a905-af81-418a-85e5-5b04b4a98f65.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/675c1e62-5a84-45bf-9e5f-21ffcd43b0a7.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/251a3138-979f-4c82-8ef1-98c41cb563bc.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/64c89833-fdc9-46cf-ab8a-45e97051a141.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/63f80cf0-96e1-499b-a1c6-2c9842aa5dd4.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/01bec842-9192-498e-bb7d-6da9767a0777.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/4e6262fe-0270-4792-b6d9-dee11863e255.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/5aff2829-f165-4b2f-a859-a766ce062e6b.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/8cdecf86-59dd-4cc4-8b6c-ddeec803a596.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/40cfd36e-59c4-48fd-b239-adb5f91cf130.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/72d0475e-3d53-4f5d-bdde-709d2c0292ae.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/71316e6b-b627-42ae-be37-e6dc2a4ae3e9.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/04397975-c295-48a2-ad9b-34bb50f472b7.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/5a8b9a4b-8365-45a8-a5f7-0b255fd68ed7.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2c3400c7-5349-4169-99c7-49c1f73fc6f8.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/92db08c5-272b-4573-b183-d5e7f483cd19.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/622a1f6c-c5e1-42ad-b8dc-20393f2123eb.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/1844d3fc-e27c-45d8-85f4-b294f4b20101.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/18297110-5f6c-407e-95f4-36aaa45785aa.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/6d1fb9e5-33ff-423f-86e9-74c196a4d8fb.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/964e5c8c-9b2d-4aaf-9cf4-708f26ccf48b.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/0c35eec4-8364-4dcc-a6c3-805fbfee6c72.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/a55785e5-7389-4066-99ed-db92c3bfa330.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/b808669f-fa74-461e-a2e6-8c0de9bf3e3a.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/06589bba-6363-468f-9d79-cf888d31ff03.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2f811d7b-ff73-4585-b005-062ef44f92b6.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/3c166901-0997-43e4-b1b0-8e514bf047bd.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/1d792270-84ad-4369-976d-cce777286f3f.jpg" />
+    <entry file="file://$PROJECT_DIR$/restapi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

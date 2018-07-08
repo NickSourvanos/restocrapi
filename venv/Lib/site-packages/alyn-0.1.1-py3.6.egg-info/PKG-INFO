@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: alyn
+Version: 0.1.1
+Summary: Fix skew in images
+Home-page: https://github.com/kakul/Alyn.git
+Author: Kakul Chandra
+Author-email: kakulchandra911@gmail.com
+License: MIT
+Download-URL: https://github.com
+Description: UNKNOWN
+Keywords: image-processing,image-deskew,deskew,rotate,text
+Platform: UNKNOWN
